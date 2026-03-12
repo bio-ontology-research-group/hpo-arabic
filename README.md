@@ -2,11 +2,26 @@
 
 This repository contains tools and data for the Arabic translation of the Human Phenotype Ontology (HPO). 
 
-### Disclaimer
+### ⚠️ Disclaimer
 This is **not** the official version of the HPO Arabic translations. The official HPO translations and the official translation process are managed by the HPO consortium and can be found at:
 [https://obophenotype.github.io/hpo-translations/translations/](https://obophenotype.github.io/hpo-translations/translations/)
 
 This repository represents an independent effort (PAVS project) to provide high-quality Arabic mappings for clinical phenotypes.
+
+## People Involved
+This work is a collaborative effort by the following individuals:
+- **Azza Alaglaan**
+- **Marwa Abdelhakim**
+- **Robert Hoehndorf**
+
+## Translation Principles
+This Arabic version of the HPO was built following strict clinical and linguistic principles to ensure accuracy and consistency:
+
+1.  **Clinical Precision**: We prioritize established Arabic medical terminology used in clinical practice across the Middle East.
+2.  **Structural Consistency**: Terms are translated following a systematic pattern, typically stating the abnormality first followed by the anatomical location (e.g., `[Abnormality] + في + [Location]`).
+3.  **Contextual Awareness**: Translations are generated and reviewed using the full context of the HPO, including English definitions, synonyms, and hierarchical (parent/child) relationships to resolve ambiguities.
+4.  **Linguistic Standard**: We use Modern Standard Arabic (MSA) to ensure broad accessibility and compatibility with standardized medical databases.
+5.  **Hybrid Workflow**: We employ a "Human-in-the-loop" approach, utilizing advanced LLMs (GPT-4o) for initial high-fidelity mapping followed by expert clinical review.
 
 ## License
 The Arabic translations and the software tools provided in this repository are licensed under the **[Creative Commons Attribution 4.0 International (CC-BY 4.0)](LICENSE)** license.
@@ -33,8 +48,7 @@ Converts JSON output into distribution formats (OBO, TSV, etc.).
 
 ## Translation Conventions
 
-### 1. Arabic Sentence Structure
-For HPO terms, we generally follow the structure: `[Abnormality] + في + [Location]`
+### 1. Arabic Sentence Structure Examples
 - *Fingernail hypoplasia* → نقص تنسج في أظافر اليد
 - *Renal tubular dysfunction* → خلل في الأنابيب الكلوية
 
