@@ -1,8 +1,8 @@
-# Arabic Translation of the Human Phenotype Ontology (HPO)
+# Arabic translation of the Human Phenotype Ontology (HPO)
 
 This repository contains tools and data for the Arabic translation of the Human Phenotype Ontology (HPO). 
 
-## ⚠️ Disclaimer
+### Disclaimer
 This is **not** the official version of the HPO Arabic translations. The official HPO translations and the official translation process are managed by the HPO consortium and can be found at:
 [https://obophenotype.github.io/hpo-translations/translations/](https://obophenotype.github.io/hpo-translations/translations/)
 
