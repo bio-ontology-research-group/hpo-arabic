@@ -2,17 +2,11 @@
 
 This repository contains tools and data for the Arabic translation of the Human Phenotype Ontology (HPO). 
 
-### ⚠️ Disclaimer
-This is **not** the official version of the HPO Arabic translations. The official HPO translations and the official translation process are managed by the HPO consortium and can be found at:
+### Disclaimer
+This is not the official version of the HPO Arabic translations. The official HPO translations and the official translation process are managed by the HPO consortium and can be found at:
 [https://obophenotype.github.io/hpo-translations/translations/](https://obophenotype.github.io/hpo-translations/translations/)
 
 This repository represents an independent effort (PAVS project) to provide high-quality Arabic mappings for clinical phenotypes.
-
-## People Involved
-This work is a collaborative effort by the following individuals:
-- **Azza Alaglaan**
-- **Marwa Abdelhakim**
-- **Robert Hoehndorf**
 
 ## Translation Principles
 This Arabic version of the HPO was built following strict clinical and linguistic principles to ensure accuracy and consistency:
