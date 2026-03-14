@@ -57,4 +57,4 @@ Converts JSON output into distribution formats (OBO, TSV, etc.).
 
 ---
 **Maintained by:** Bio-Ontology Research Group (BORG)
-**Part of Project:** PAVS (Phenotypic and Variant Standardization)
+**Part of Project:** [https://github.com/bio-ontology-research-group/pavs](PAVS) (Phenotypic and Variant Standardization)
